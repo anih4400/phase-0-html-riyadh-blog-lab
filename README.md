@@ -54,4 +54,4 @@ Method to validate their guesses into building a model.
 
 It's possibly the most powerful learning technique possible. Toddlers and
 puppies are amazing at it!
-TBD2
+
